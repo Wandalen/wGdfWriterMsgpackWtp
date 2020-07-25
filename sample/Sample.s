@@ -3,5 +3,5 @@ let _ = require( 'wgdfwritermsgpackwtp' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
